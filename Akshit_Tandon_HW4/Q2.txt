@@ -1,0 +1,4 @@
+Job Males Females
+Accountant 60 20
+Secretarial 10 90
+Executive 20 20
