@@ -3,11 +3,15 @@
 #Part 1
 
 Exploratory Analysis
-Construct the probability distribution function of the year of first publication of faculty
-Construct the probability distribution function of the total citations of faculty
-Cluster the subject areas of faculty using the Louvain algorithm (k=5)
-Generate a bar plot of the number of publications per subject area per continent pre-2014, post-2014, and their difference
-Generate a bar plot of the number of publications per CIP category per continent pre-2014, post-2014, and their difference
+Construct the probability distribution function of the year of first publication of faculty.
+
+Construct the probability distribution function of the total citations of faculty.
+
+Cluster the subject areas of faculty using the Louvain algorithm (k=5).
+
+Generate a bar plot of the number of publications per subject area per continent pre-2014, post-2014, and their difference.
+
+Generate a bar plot of the number of publications per CIP category per continent pre-2014, post-2014, and their difference.
 
 
 #Part 2
